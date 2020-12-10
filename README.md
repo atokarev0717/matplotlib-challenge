@@ -12,4 +12,4 @@ A company named **Pymaceuticals** who specializes in anti-cancer pharmaceuticals
     1) Finding duplicate values then keeping only one of them. However, I noticed that Tumor Volume wasn't the same for some entries with the same pair of "Mouse ID" and "TimePoint". Therefore, I decided to use the second method
     2) Instead of dropping duplicate values all together, I decided to combine them by averaging Tumor Volume for the duplicate values. Again, duplicate values have been defined as entries with the same pair of "Mouse ID" and "TimePoint". Once the operation was performed I named the new Data Set as clean_df and used it for further analysis
 
-Please refer to the [Analysis Jupyter Notebook](./pymaceuticals.ipynb) for conclusions and the details of the analysis
+Please refer to the [Analysis Jupyter Notebook](./pymaceuticals.ipynb) for conclusions and the details of the analysis.
